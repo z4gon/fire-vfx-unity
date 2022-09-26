@@ -4,7 +4,6 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 ## Fatures
 
 - [Random Velocity, Angle and Lifetime](#random-velocity-angle-and-lifetime)
-- [Random Rotation](#random-rotation)
 - [Flipbook Animation](#flipbook-animation)
 - [Face Camera Position](#face-camera-position)
 - [Size over Life](#size-over-life)
@@ -18,13 +17,21 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 
 <!-- ![Cliff](./docs/screenshots/cliff.gif) -->
 
-## References
-
-[Fire VFX by Brackeys](https://www.youtube.com/watch?v=R6D1b7zZHHA)
+---
 
 ### Random Velocity, Angle and Lifetime
 
+[Fire VFX by Brackeys](https://www.youtube.com/watch?v=R6D1b7zZHHA)
+
 ![Randomness](./docs/spawn-randomness.gif)
+
+---
+
+### Flipbook Animation
+
+[Fire VFX by Brackeys](https://www.youtube.com/watch?v=R6D1b7zZHHA)
+
+![Flipbook Animation](./docs/flipbook-animation.gif)
 
 ---
 
