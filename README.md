@@ -45,6 +45,12 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 
 ---
 
+### Color Multiply and Color over Life
+
+![Color Multiply and Color over Life](./docs/color.gif)
+
+---
+
 ## Implementation explained
 
 1. **Project configuration**
