@@ -6,8 +6,8 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 - [Random Velocity, Angle and Lifetime](#random-velocity-angle-and-lifetime)
 - [Flipbook Animation](#flipbook-animation)
 - [Face Camera Plane](#face-camera-plane)
-- [Size over Life](#size-over-life)
-- [Wind Forces](#wind-forces)
+- [Size over Life](#size-over-life-wind-and-drag-forces)
+- [Wind and Drag Forces](#size-over-life-wind-and-drag-forces)
 - [Color Multiply and Color over Life](#color-multiply-and-color-over-life)
 - [Normal Maps](#normal-maps)
 - [Lighting](#lighting)
@@ -36,6 +36,12 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 ### Face Camera Plane
 
 ![Face Camera Plane](./docs/face-camera.gif)
+
+---
+
+### Size over Life, Wind and Drag Forces
+
+![Size over Life, Wind and Drag Forces](./docs/size-over-life-wind-and-drag-forces.gif)
 
 ---
 
