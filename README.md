@@ -51,6 +51,16 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 
 ---
 
+### Normal Maps
+
+#### Without Normal Maps
+![Without Normal Maps](./docs/no-normals.gif)
+
+#### With Normal Maps
+![With Normal Maps](./docs/with-normals.gif)
+
+---
+
 ## Implementation explained
 
 1. **Project configuration**
@@ -95,6 +105,7 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
     1. in the **Lit Quad Output** node
         1. Enable "Use Normal Map".
         1. Set the normal map.
+        1. If the VFX has [an unusual green tint](https://helloarduino.tistory.com/entry/The-green-tint-issue-in-VFX-graph), then you need to create a new diffussion profile asset and set it to the **Lit Quad Output** node.
     1. Add a point light at the bottom of the VFX to make the normal maps more noticeable.
 
 1. **Sparks Effect**
