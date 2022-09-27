@@ -42,6 +42,7 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 
 ![Color Multiply and Color over Life](./docs/color.gif)
 
+---
 ### Normal Maps
 
 #### Without Normal Maps
@@ -50,13 +51,26 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 #### With Normal Maps
 ![With Normal Maps](./docs/with-normals.gif)
 
+---
+#### Fire/Smoke VFX Graph
+![Spawn and Initialize](./docs/graphs/fire-smoke-spawn-initialize.png)
+![Update](./docs/graphs/fire-smoke-update.png)
+![Output](./docs/graphs/fire-smoke-output.png)
+
+---
+
 ### Lighting
 
 ![Lighting](./docs/lighting.gif)
-
 ### Sparks
 
 ![Sparks](./docs/sparks.gif)
+
+---
+#### Sparks VFX Graph
+![Spawn and Initialize](./docs/graphs/sparks-spawn-initialize.png)
+![Update](./docs/graphs/sparks-update.png)
+![Output](./docs/graphs/sparks-output.png)
 
 ---
 
