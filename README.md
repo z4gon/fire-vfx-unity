@@ -1,7 +1,7 @@
 # Fire VFX
 Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 
-## Fatures
+## Features
 
 - [Random Velocity, Angle and Lifetime](#random-velocity-angle-and-lifetime)
 - [Flipbook Animation](#flipbook-animation)
@@ -26,31 +26,21 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 
 ![Randomness](./docs/spawn-randomness.gif)
 
----
-
 ### Flipbook Animation
 
 ![Flipbook Animation](./docs/flipbook-animation.gif)
-
----
 
 ### Face Camera Plane
 
 ![Face Camera Plane](./docs/face-camera.gif)
 
----
-
 ### Size over Life, Wind and Drag Forces
 
 ![Size over Life, Wind and Drag Forces](./docs/size-over-life-wind-and-drag-forces.gif)
 
----
-
 ### Color Multiply and Color over Life
 
 ![Color Multiply and Color over Life](./docs/color.gif)
-
----
 
 ### Normal Maps
 
@@ -60,12 +50,10 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 #### With Normal Maps
 ![With Normal Maps](./docs/with-normals.gif)
 
----
 ### Lighting
 
 ![Lighting](./docs/lighting.gif)
 
----
 ### Sparks
 
 ![Sparks](./docs/sparks.gif)
