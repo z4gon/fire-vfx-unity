@@ -60,6 +60,16 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 ![With Normal Maps](./docs/with-normals.gif)
 
 ---
+### Lighting
+
+![Lighting](./docs/lighting.gif)
+
+---
+### Sparks
+
+![Sparks](./docs/sparks.gif)
+
+---
 
 ## Implementation explained
 
