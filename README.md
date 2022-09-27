@@ -15,7 +15,8 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 
 ## Screenshots
 
-<!-- ![Cliff](./docs/screenshots/cliff.gif) -->
+![Multi Colors](./docs/multi-colors.gif)
+![Screenshot 1](./docs/screenshot.png)
 
 ---
 
