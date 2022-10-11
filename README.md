@@ -2,6 +2,10 @@
 
 Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
 
+### Reference Tutorial
+
+- [Fire VFX by Brackeys](https://www.youtube.com/watch?v=R6D1b7zZHHA)
+
 ## Features
 
 - [Random Velocity, Angle and Lifetime](#random-velocity-angle-and-lifetime)
@@ -145,7 +149,3 @@ Fire, smoke and sparks vfx using VFX Graph in Unity **Unity 2021.3.10f1**
       1. Set "Multiply Color" to make sparks glow.
    1. in the **Update** nodes
       1. Add a turbulance affected by a time node.
-
-### References
-
-- [Fire VFX by Brackeys](https://www.youtube.com/watch?v=R6D1b7zZHHA)
